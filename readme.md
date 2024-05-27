@@ -51,8 +51,8 @@ STRING_SESSION - A PYROGRAM V2 STRING SESSION
 Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/Vivekkumar-IN/YukkiMusic/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact  [Telegram profile](https://t.me/vivekkumar07089)
-- [Telegram Support](https://t.me/vk_zone)
+- Contact  [Telegram profile](https://t.me/RDX_1947)
+- [Telegram Support](https://t.me/Monster_Mod_Apk)
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
